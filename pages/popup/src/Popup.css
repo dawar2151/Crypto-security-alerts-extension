@@ -10,7 +10,8 @@
 }
 
 .App-logo {
-  height: 50vmin;
+  height: 10vmin;
+  max-width: 20px;
   margin-bottom: 1rem;
 }
 
